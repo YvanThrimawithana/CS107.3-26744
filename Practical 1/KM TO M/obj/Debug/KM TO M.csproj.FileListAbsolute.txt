@@ -1,0 +1,8 @@
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\bin\Debug\KM TO M.exe.config
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\bin\Debug\KM TO M.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\bin\Debug\KM TO M.pdb
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\obj\Debug\KM TO M.csproj.AssemblyReference.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\obj\Debug\KM TO M.csproj.SuggestedBindingRedirects.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\obj\Debug\KM TO M.csproj.CoreCompileInputs.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\obj\Debug\KM TO M.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\KM TO M\obj\Debug\KM TO M.pdb
