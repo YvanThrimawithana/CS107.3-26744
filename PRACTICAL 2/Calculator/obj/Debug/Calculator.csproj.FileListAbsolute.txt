@@ -1,0 +1,8 @@
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\bin\Debug\Calculator.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\bin\Debug\Calculator.pdb
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\obj\Debug\Calculator.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\1ST LECTURE\CLASSES\CODES\Calculator\obj\Debug\Calculator.pdb

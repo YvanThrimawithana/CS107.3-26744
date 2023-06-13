@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area and circumference", "area and circumference.csproj", "{55B07C4E-D2EB-4A49-A23E-FE7DFAF77842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B07C4E-D2EB-4A49-A23E-FE7DFAF77842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B07C4E-D2EB-4A49-A23E-FE7DFAF77842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B07C4E-D2EB-4A49-A23E-FE7DFAF77842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B07C4E-D2EB-4A49-A23E-FE7DFAF77842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B55DED2F-A0F5-4082-A91D-E00A9D5024A6}
+	EndGlobalSection
+EndGlobal
