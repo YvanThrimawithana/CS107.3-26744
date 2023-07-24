@@ -1,0 +1,8 @@
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\bin\Debug\scalear and linear summaton.exe.config
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\bin\Debug\scalear and linear summaton.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\bin\Debug\scalear and linear summaton.pdb
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\obj\Debug\scalear and linear summaton.csproj.AssemblyReference.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\obj\Debug\scalear and linear summaton.csproj.SuggestedBindingRedirects.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\obj\Debug\scalear and linear summaton.csproj.CoreCompileInputs.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\obj\Debug\scalear and linear summaton.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\scalear and linear summaton\obj\Debug\scalear and linear summaton.pdb

@@ -1,0 +1,8 @@
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\bin\Debug\MIn and max value.exe.config
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\bin\Debug\MIn and max value.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\bin\Debug\MIn and max value.pdb
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\obj\Debug\MIn and max value.csproj.AssemblyReference.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\obj\Debug\MIn and max value.csproj.SuggestedBindingRedirects.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\obj\Debug\MIn and max value.csproj.CoreCompileInputs.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\obj\Debug\MIn and max value.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\MIn and max value\obj\Debug\MIn and max value.pdb

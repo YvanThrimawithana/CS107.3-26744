@@ -1,0 +1,8 @@
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\bin\Debug\Descending and ascending.exe.config
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\bin\Debug\Descending and ascending.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\bin\Debug\Descending and ascending.pdb
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\obj\Debug\Descending and ascending.csproj.AssemblyReference.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\obj\Debug\Descending and ascending.csproj.SuggestedBindingRedirects.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\obj\Debug\Descending and ascending.csproj.CoreCompileInputs.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\obj\Debug\Descending and ascending.exe
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 4\Descending and ascending\obj\Debug\Descending and ascending.pdb
